@@ -2,7 +2,7 @@
 <cinder>
 <block
 	name="CinderFlex"
-	id="org.libcinder.OSC"
+	id="org.libcinder.flex"
 	author="Joel Pryde"
 	license="MIT"
 	summary="Cinder support for NVidia Flex.  FleX is a particle based simulation technique for real-time visual effects."
